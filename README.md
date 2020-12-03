@@ -67,18 +67,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-
-# Up and running
--   Make sure you have mongoDB, node, @angular/cli installed in you machine.
--   start server side by these commands 
-```
-    cd BackEnd 
-    npm install
-    npm start
-```
--   start client side by these commands
-```
-    cd FrontEnd
-    yarn
-    ng serve --post 8081
-```
